@@ -1,1 +1,2 @@
 # Image-steganography
+Image steganography is a technique for hiding data within image files to ensure secure communication and confidentiality. This project implements steganographic methods using the RGB technique with XOR encryption for embedding and extracting hidden text. The RGB technique modifies the least significant bits of pixel values in the image to encode information without visibly altering the image's appearance. XOR encryption enhances security by XORing the binary data with a key before embedding, ensuring data integrity and confidentiality.
